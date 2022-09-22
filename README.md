@@ -61,7 +61,12 @@
 51. SAVWATER
 52. CHFSPL
 
-</br>
+
+### Contests Problems :
+0. MARKSTW
+1. SUMNEQ
+2. TWODIFFPALIN
+
 
 **Note** : Some Code has been written in Python to solve the Problem in a simple way.</br> 
 
