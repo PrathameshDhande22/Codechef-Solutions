@@ -60,12 +60,20 @@
 50. CARRYGOLD
 51. SAVWATER
 52. CHFSPL
-
+53. EQLZING
+54. SUPCHEF
 
 ### Contests Problems :
+- **START57D** :
 0. MARKSTW
 1. SUMNEQ
 2. TWODIFFPALIN
+- **LTIME112D** :
+0. SLEEP
+1. FLIPCARDS
+2. EQUALIZEAB
+3. STICKBREAK
+
 
 
 **Note** : Some Code has been written in Python to solve the Problem in a simple way.</br> 
