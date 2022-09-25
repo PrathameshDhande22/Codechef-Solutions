@@ -62,6 +62,8 @@
 52. CHFSPL
 53. EQLZING
 54. SUPCHEF
+55. ATM2
+56. PROGLANG
 
 ### Contests Problems :
 - **START57D** :
