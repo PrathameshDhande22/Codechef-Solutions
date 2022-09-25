@@ -42,6 +42,7 @@ public class EZSPEAK {
 	}
 }
 
+//last test case is wrong in the codechef;
 /*
  * 
  * 
