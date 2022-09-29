@@ -66,6 +66,8 @@
 56. PROGLANG
 57. UWCOI21A
 58. IPCCERT
+59. TWOVSTEN
+60. VDATES
 
 ### Contests Problems :
 - **START57D** :
