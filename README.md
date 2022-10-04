@@ -71,6 +71,8 @@
 61. REMISS
 62. PSGRADE
 63. AVOIDCONTACT
+64. SOLBLTY
+65. SHOEFIT
 
 ### Contests Problems :
 - **START57D** :
