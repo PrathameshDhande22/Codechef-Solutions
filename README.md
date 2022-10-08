@@ -78,6 +78,7 @@
 68. WCC
 69. CARRANGE
 70. BURGERS
+71. PRIZEPOOL
 
 
 ### Contests Problems :
@@ -101,6 +102,7 @@
 - **OCT221D** :
 0. PODIUM
 1. MINPIZZA
+2. BUILDINGRACE
 
 
 
