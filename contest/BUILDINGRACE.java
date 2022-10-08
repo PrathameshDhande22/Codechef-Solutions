@@ -8,10 +8,10 @@ public class BUILDINGRACE {
 		Scanner sc = new Scanner(System.in);
 		int cases = sc.nextInt();
 		for (int i = 0; i < cases; i++) {
-			int a = sc.nextInt();
-			int b = sc.nextInt();
-			int x = sc.nextInt();
-			int y = sc.nextInt();
+			float a = sc.nextInt();
+			float b = sc.nextInt();
+			float x = sc.nextInt();
+			float y = sc.nextInt();
 			if ((a / x) > (b / y)) {
 				System.out.println("Chefina");
 			} else if ((a / x) < (b / y)) {
