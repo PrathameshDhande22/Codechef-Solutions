@@ -4,7 +4,12 @@
 ![](https://img.shields.io/badge/Language-Java_17.0.04-blue?style=flat-square&logo=java) &nbsp;
 ![](https://img.shields.io/badge/IDE-Eclipse_2022_06-darkgreen?style=flat-square&logo=eclipse) 
 
+[Codechef Profile](https://www.codechef.com/users/prathamesh2003) 👈 My Codechef Profile.
 
+---
+[LeetCode Solutions]( https://github.com/PrathameshDhande22/LeetCode-Solutions) 👈 My LeetCode Solutions Repository
+
+---
 
 ### Currently Solved Problems : Codechef Problem Codes 
 0. FLOW001
@@ -83,7 +88,8 @@
 73. POPCORN
 74. FRGAME
 75. KEPLERSLAW
-
+76. WEIGHTBL
+---
 
 ### Contests Problems :
 - **LP0TO101** :
@@ -120,8 +126,7 @@
 3. CUTPAPER
 4. FLIPPAL
 
-
-
+---
 
 **Note** : Some Code has been written in Python to solve the Problem in a simple way.</br> 
 
