@@ -91,6 +91,9 @@
 76. WEIGHTBL
 77. AIRLINE
 78. INSTAGRAM
+79. JERRYCHASE
+80. MAXDIFFMIN
+
 ---
 
 ### Contests Problems :
